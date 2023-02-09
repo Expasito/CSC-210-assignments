@@ -1,5 +1,8 @@
 /**
  * 
+ * CheapHouses.java uses a GUI to display a map of houses from a csv file
+ * for analysis and also saves houses under a certain price to a text file.
+ * 
  * @author Joshua Baus
  *
  */
