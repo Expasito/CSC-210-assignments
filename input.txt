@@ -1,0 +1,11 @@
+rows: 3
+cols: 3
+
+print
+cut
+cut (0,0)
+cut pine
+cut Pine
+Cut PINE
+CUT Pine
+cut (5,5)
